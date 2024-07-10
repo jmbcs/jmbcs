@@ -1,4 +1,4 @@
-# Hello World 👋 I'm Júlio Silva
+# `print("Hello World, I'm Júlio Silva")`
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go&logoColor=00ADD8)
@@ -34,7 +34,7 @@
 - 🌇 **Travelling**: Exploring new cities is one of my favorite things to do
 - 💵 **Finances & Investing**: Keep up with financial markets and explore new investment opportunities
 
-## My Profile Stats
+## My Github Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbcs" width="400" />
