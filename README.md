@@ -3,7 +3,6 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana&logoColor=F46800)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus&logoColor=E6522C)
-![Telegraf](https://img.shields.io/badge/-Telegraf-000000?style=flat&logo=telegraf&logoColor=00ADD8)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=009688)
