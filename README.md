@@ -18,7 +18,7 @@
 
 - 📅 **Age**: 28
 - 🇵🇹 **Nationality**: Portuguese
-- 💼 **Current Work Position**: Mid Software Engineer at [Wavecom](https://wavecom.pt/)
+- 💼 **Current Work Position**: Mid Backend Developer at [GuestReady](https://www.guestready.com/)
 - 🎓 **Education**: Masters in Electronics and Telecommunications Engineering, University of Aveiro
 
 ### Hobbies & Interests
