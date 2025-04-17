@@ -120,26 +120,22 @@
   </div>
 </div>
 
-<!-- GitHub Stats Section - Enhanced Visuals -->
+<!-- GitHub Stats Section - More Reliable Configuration -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
     <a href="https://github.com/jmbcs">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmbcs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbcs&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmbcs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmbcs&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
     </a>
   </p>
 
-<p align="center">
+  <p align="center">
     <a href="https://github.com/jmbcs">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmbcs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </a>
   </p>
-
-  <a href="https://github.com/jmbcs">
-    <img src="https://github-profile-trophy.vercel.app/?username=jmbcs&theme=nord&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophy" />
-  </a>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmbcs&theme=react-dark&hide_border=true&area=true&include_all_commits=true" width="100%" alt="Contribution Graph"/>
 </div>
@@ -205,11 +201,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%" />
 
-  <p align="center">
+<p align="center">
     <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-  </p>
+</p>
 
-  <p align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=jmbcs&style=flat-square&color=3B82F6" alt="Profile Views" />
   </p>
 </div>
