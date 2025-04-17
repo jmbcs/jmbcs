@@ -1,88 +1,215 @@
-# Hi there, I'm Júlio 👋
+<!-- Header Section with Enhanced Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=190&section=header&text=Júlio%20Silva&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%" />
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+robust+backend+solutions;Python+%26+Django+specialist;Problem+solver+%26+Tech+enthusiast;Passionate+about+clean+code+architecture" alt="Typing SVG" /></a>
+</div>
+
+<!-- About Me Section with Custom Card -->
+<div align="center">
+  <img align="right" height="270px" alt="Developer Animation" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+  <div align="left" width="100%">
+    <h2>💫 About Me</h2>
+    <p>
+      I'm a <b>Mid Backend Developer</b> currently working remotely at GuestReady on the <a href="https://www.rentalready.com/">RentalReady</a> software, building robust property management solutions.
+    </p>
+    <p>
+      With a strong focus on scalable backend architectures and API design, I strive to create maintainable code that solves real business problems.
+    </p>
+
+  <!-- Social Icons -->
+  <div align="left">
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:youremail@gmail.com">
+      <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://jmbcs.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
+  </div>
+</div>
+
+<br clear="both">
+
+<!-- Tech Stack Section - Modern Grid Layout -->
+<div align="center">
+  <h2>🛠️ Technologies & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=python,javascript,go,django,fastapi,react,postgres,redis,docker,kubernetes,linux,html,css,git" />
+
+  <details open>
+  <summary><h3>📊 Detailed Skills</h3></summary>
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+          <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">DevOps & Tools</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+          <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend & Other</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+          <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+        </div>
+      </td>
+    </tr>
+  </table>
+  </details>
+</div>
+
+<!-- Work Experience Section - Timeline Style -->
+<div align="center">
+  <h2>💼 Professional Journey</h2>
+  <div align="left">
+    <div>
+      <h3>🚀 Mid Backend Developer</h3>
+      <p><em>GuestReady/RentalReady | Remote | 2024-Present</em></p>
+      <ul>
+        <li>Contributed to a large-scale property management software using Django</li>
+        <li>Developed and maintained integrations with third-party APIs</li>
+        <li>Diagnosed production issues using Sentry and Datadog</li>
+        <li>Executed bulk updates of PostgreSQL production databases</li>
+      </ul>
+    </div>
+
+<div>
+  <h3>💻 Software Developer</h3>
+  <p><em>Wavecom | Aveiro, Portugal | 2021-2024</em></p>
+  <ul>
+    <li>Built microservices using Python and Golang with gRPC</li>
+    <li>Designed and developed REST APIs for both SQL and NoSQL databases</li>
+    <li>Improved Grafana dashboard performance by optimizing database queries</li>
+    <li>Created ETL pipelines using Telegraf and performed data analysis with Pandas</li>
+  </ul>
+</div>
+
+<div>
+  <h3>🔬 Master in Eletronics and Telecommunications Engineering</h3>
+  <p><em>University of Aveiro | 2019-2021</em></p>
+  <ul>
+    <li>Conducted research on image processing and machine learning algorithms</li>
+    <li>Developed a Python-based system for automatic image indexing and retrieval</li>
+  </ul>
+</div>
+  </div>
+</div>
+
+<!-- GitHub Stats Section - Enhanced Visuals -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer;Software+Engineer;Python+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
-</p>
-
-I'm a **Mid Backend Developer** currently working remotely at GuestReady on the [RentalReady](https://www.rentalready.com/) software, building robust property management solutions. With a Master's in Electronics/Telecommunications Engineering from the University of Aveiro (19/20), I specialize in developing efficient, scalable backend systems and enjoy tackling complex technical challenges.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-Here are some of the technologies and tools I work with:
-
-| Category | Technologies |
-| :------- | :----------- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go&logoColor=00ADD8) |
-| **Backend** | ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20) ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=009688) ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat&logo=swagger&logoColor=85EA2D) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791) ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=DC382D) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6) |
-| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624) |
-| **Monitoring & Tools** | ![Datadog](https://img.shields.io/badge/-Datadog-000000?style=flat&logo=datadog&logoColor=632CA6) ![Sentry](https://img.shields.io/badge/-Sentry-000000?style=flat&logo=sentry&logoColor=362D59) ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana&logoColor=F46800) |
-| **Messaging** | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=FF6600) ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=celery&logoColor=37814A) |
-
----
-
-## 🚀 Projects Worked on
-
-- **[RentalReady](https://www.rentalready.com/)**: Streamlining property management and short-term rentals, maximising efficiency and enhancing guest experiences.
-- **[BigHPC](https://bighpc.wavecom.pt/)**: Developed monitoring systems for High-Performance Computing clusters, optimizing resource utilization.
-- **[TaskMate](https://github.com/jmbcs/taskmate)**: A comprehensive task management application designed to help users organize their daily activities.
-- **[Portfolio](https://github.com/jmbcs/portfolio)**: Personal website showcasing my projects and professional experience.
-
----
-
-## 💼 Experience
-
-- **Mid Backend Developer** at GuestReady/RentalReady (Remote, 2024-Present)
-  - Contributed to a large-scale property management software using Django
-  - Developed and maintained integrations with third-party APIs
-  - Diagnosed production issues using Sentry and Datadog
-  - Executed bulk updates of PostgreSQL production databases
-
-- **Software Developer** at Wavecom (Aveiro, Portugal, 2021-2024)
-  - Built microservices using Python and Golang with gRPC
-  - Designed and developed REST APIs for both SQL and NoSQL databases
-  - Improved Grafana dashboard performance by optimizing database queries
-  - Created ETL pipelines using Telegraf and performed data analysis with Pandas
-
-- **Research Grant Holder** at University of Aveiro (2019-2021)
-  - Conducted research on image processing and machine learning algorithms
-  - Developed a Python-based system for automatic image indexing and retrieval
-
----
-
-## 📊 My GitHub Stats
+    <a href="https://github.com/jmbcs">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmbcs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbcs&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+    </a>
+  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbcs&theme=github_dark&layout=compact&langs_count=8" width="400" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jmbcs&count_private=true&show_icons=true&theme=github_dark" width="400" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmbcs&theme=github-dark&hide_border=true&area=true" width="810" alt="Contribution Graph"/>
-</p>
+    <a href="https://github.com/jmbcs">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmbcs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
 
----
+  <a href="https://github.com/jmbcs">
+    <img src="https://github-profile-trophy.vercel.app/?username=jmbcs&theme=nord&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophy" />
+  </a>
 
-## ✨ Beyond the Code
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmbcs&theme=react-dark&hide_border=true&area=true&include_all_commits=true" width="100%" alt="Contribution Graph"/>
+</div>
 
-When I'm not coding, you might find me:
+<!-- Personal Interests Section -->
+<div align="center">
+  <h2>✨ Beyond the Code</h2>
+  <p>When I'm not coding, you might find me:</p>
+</div>
 
-- 📚 Reading and expanding my knowledge in tech and beyond
-- 🎮 Gaming - a passion since childhood
-- 🍿 Watching movies and TV series
-- 🏃‍♂️ Staying active and maintaining a healthy lifestyle
-- 🌆 Exploring new places and cultures
-- 💻 Working on side projects and learning new technologies
-- 🎵 Enjoying a diverse range of music
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>😄 Comedy</h3>
+      <p>Fan of Ricky Gervais, Daniel Sloss, and Anthony Jeselnik</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📖 Reading</h3>
+      <p>Enjoy reading books on my e-reader whenever I get the time</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎮 Videogames</h3>
+      <p>Certified gamer since 6 years old</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🍿 Movies & Series</h3>
+      <p>You know nothing Jon Snow!</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏞️ Hiking</h3>
+      <p>Love to hike around nature, especially during family vacations</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Coding</h3>
+      <p>Code brings me joy through the power of creativity and accomplishment</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>💪 Gym</h3>
+      <p>Keeping both my mind and body in shape is crucial for my happiness</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎵 Music</h3>
+      <p>Who doesn't like a good beat?</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌇 Travelling</h3>
+      <p>Exploring new cities is one of my favorite things to do</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h3>💵 Finances & Investing</h3>
+      <p>Keep up with financial markets and explore new investment opportunities</p>
+    </td>
+  </tr>
+</table>
 
----
+<!-- Footer Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%" />
 
-## 📫 Get in Touch
+  <p align="center">
+    <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  </p>
 
-Interested in collaborating or have any questions? Feel free to reach out through my [portfolio website](https://jmbcs.github.io/portfolio/) or connect with me on professional networks.
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jmbcs&style=flat-square&color=3B82F6" alt="Profile Views" />
+  </p>
+</div>
