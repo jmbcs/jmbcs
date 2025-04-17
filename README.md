@@ -37,10 +37,6 @@
 <!-- Tech Stack Section - Modern Grid Layout -->
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=python,javascript,go,django,fastapi,react,postgres,redis,docker,kubernetes,linux,html,css,git" />
-
-  <details open>
-  <summary><h3>📊 Detailed Skills</h3></summary>
   <table>
     <tr>
       <td valign="top" width="33%">
@@ -80,7 +76,6 @@
       </td>
     </tr>
   </table>
-  </details>
 </div>
 
 <!-- Work Experience Section - Timeline Style -->
