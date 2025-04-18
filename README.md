@@ -19,10 +19,10 @@
 
   <!-- Social Icons -->
   <div align="left">
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="https://www.linkedin.com/in/julio-miguel-silva/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:youremail@gmail.com">
+    <a href="mailto:julio.m.b.c.silva@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://jmbcs.github.io/portfolio/">
