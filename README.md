@@ -11,7 +11,7 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
   <div align="left" style="max-width: 600px;">
-    <h2>💫 About Me</h2>
+    <h2>About Me</h2>
     <p>Hi there! I'm a <strong>Mid Backend Developer</strong> with a passion for writing clean, efficient code that solves real-world problems.</p>
     <p>Currently working remotely at <a href="https://www.guestready.com/">GuestReady</a> on the <a href="https://www.rentalready.com/">RentalReady</a> platform, where I help build robust property management systems.</p>
   </div>
