@@ -7,14 +7,15 @@
 
 <!-- About Me Section with Custom Card -->
 <div align="center">
-  <img align="right" height="270px" alt="Developer Animation" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+  <img align="right" height="270px"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=2E9FD3&center=true&vCenter=true&multiline=true&lines=Hello+World%2C+I'm+J%C3%BAlio+Silva+%F0%9F%91%8B;Backend+Engineer+%7C+Django+Expert+%7C+Python+Dev;Crafting+clean+code+and+robust+systems+%F0%9F%92%BB" alt="Typing SVG" />
+
   <div align="left" width="100%">
     <h2>💫 About Me</h2>
     <p>
-      I'm a <b>Mid Backend Developer</b> currently working remotely at GuestReady on the <a href="https://www.rentalready.com/">RentalReady</a> software, building robust property management solutions.
+      I'm a <b>Mid Backend Developer</b> currently working remotely at <a href="https://www.guestready.com">GuestReady</a> on the <a href="https://www.rentalready.com/">RentalReady</a> software, building robust property management solutions.
     </p>
     <p>
-      With a strong focus on scalable backend architectures and API design, I strive to create maintainable code that solves real business problems.
+      I strive to create maintainable code that solves real business problems.
     </p>
 
   <!-- Social Icons -->
