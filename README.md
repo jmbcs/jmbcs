@@ -35,6 +35,7 @@ class SoftwareEngineer:
         ]
 
         self.currently_learning: str = "AI workflows"
+        self.is_employed : bool = True
 
     def say_hi(self) -> None:
         print("Thanks for dropping by — hope you find some of my work interesting.")
