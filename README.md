@@ -12,25 +12,40 @@
 
 ```python3
 class SoftwareEngineer:
+    def __init__(self) -> None:
+        # Identity
+        self.name: str = "Júlio Silva"
+        self.role: str = "Backend Developer"
+        self.location: str = "Portugal 🇵🇹"
+        self.company: str = "GuestReady / RentalReady"
 
-    def __init__(self):
-        self.name               = "Júlio Silva"
-        self.role               = "Backend Developer"
-        self.location           = "Portugal 🇵🇹"
-        self.company            = "GuestReady / RentalReady"
+        # Stack
+        self.languages: list[str] = ["Python", "Go", "JavaScript", "Bash"]
+        self.frameworks: list[str] = ["Django", "FastAPI", "Django REST Framework"]
+        self.databases: list[str] = ["PostgreSQL", "Redis"]
+        self.tools: list[str] = ["Docker", "Git", "Linux", "Celery", "RabbitMQ"]
+        self.monitoring: list[str] = ["Sentry", "Datadog", "Grafana", "VictoriaMetrics"]
 
-        self.languages          = ["Python", "Go", "JavaScript", "Bash"]
-        self.frameworks         = ["Django", "FastAPI", "Django REST Framework"]
-        self.databases          = ["PostgreSQL", "Redis"]
-        self.tools              = ["Docker", "Git", "Linux", "Celery", "RabbitMQ"]
-        self.monitoring         = ["Sentry", "Datadog", "Grafana", "VictoriaMetrics"]
+        # Interests
+        self.interests: list[str] = [
+            "Clean architecture",
+            "API design",
+            "Performance optimization",
+            "Distributed systems",
+        ]
 
-        self.interests          = ["Clean architecture", "API design",
-                                   "Performance optimization", "Distributed systems"]
-        self.currently_learning = "A.I workflow"
+        self.currently_learning: str = "AI workflows"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def say_hi(self) -> None:
+        print("Thanks for dropping by — hope you find some of my work interesting.")
+
+    def stack(self) -> dict[str, list[str]]:
+        return {
+            "languages": self.languages,
+            "frameworks": self.frameworks,
+            "databases": self.databases,
+            "tools": self.tools,
+        }
 
     def get_daily_routine(self) -> list[str]:
         return [
@@ -39,20 +54,24 @@ class SoftwareEngineer:
             "write_clean_code(tests_first=True)",
             "review_pull_requests()",
             "optimize_queries(n=float('inf'))",
-            "git commit -m "'done with extra caffeine'",
+            'git commit -m "done with extra caffeine"',
             "git push",
             "coffee.brew()  # again",
         ]
 
-    def contact(self) -> dict:
+    def contact(self) -> dict[str, str]:
         return {
-            "email":     "julio.m.b.c.silva@gmail.com",
-            "linkedin":  "linkedin.com/in/julio-miguel-silva/",
+            "email": "julio.m.b.c.silva@gmail.com",
+            "linkedin": "linkedin.com/in/julio-miguel-silva/",
             "portfolio": "jmbcs.github.io/portfolio/",
         }
 
     def __repr__(self) -> str:
-        return f"<BackendDeveloper name={self.name!r} role={self.role!r}>"
+        return f"<SoftwareEngineer name={self.name!r} role={self.role!r}>"
+
+    def __str__(self) -> str:
+        return f"{self.name} — {self.role} at {self.company}"
+
 
 if __name__ == "__main__":
     me = SoftwareEngineer()
