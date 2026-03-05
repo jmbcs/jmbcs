@@ -11,7 +11,7 @@
 </div>
 
 ```python3
-class BackendDeveloper:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name               = "Júlio Silva"
@@ -55,7 +55,7 @@ class BackendDeveloper:
         return f"<BackendDeveloper name={self.name!r} role={self.role!r}>"
 
 if __name__ == "__main__":
-    me = BackendDeveloper()
+    me = SoftwareEngineer()
     me.say_hi()
     print(me)
 ```
