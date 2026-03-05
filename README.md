@@ -6,83 +6,73 @@
   </a>
 </div>
 
-<!-- About Me -->
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+```python3
+class BackendDeveloper:
 
-  <div align="left" style="max-width: 600px;">
-    <h2>About Me</h2>
-    <p>Hi there! I'm a <strong>Mid Backend Developer</strong> with a passion for writing clean, efficient code that solves real-world problems.</p>
-    <p>Currently working remotely at <a href="https://www.guestready.com/">GuestReady</a> on the <a href="https://www.rentalready.com/">RentalReady</a> platform, where I help build robust property management systems.</p>
-  </div>
+    def __init__(self):
+        self.name               = "Júlio Silva"
+        self.role               = "Backend Developer"
+        self.location           = "Portugal 🇵🇹"
+        self.company            = "GuestReady / RentalReady"
 
-  <!-- Social Links -->
-  <div align="left" style="margin-top: 15px;">
-    <a href="https://www.linkedin.com/in/julio-miguel-silva/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:julio.m.b.c.silva@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://jmbcs.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
-</div>
+        self.languages          = ["Python", "Go", "JavaScript", "Bash"]
+        self.frameworks         = ["Django", "FastAPI", "Django REST Framework"]
+        self.databases          = ["PostgreSQL", "Redis"]
+        self.tools              = ["Docker", "Git", "Linux", "Celery", "RabbitMQ"]
+        self.monitoring         = ["Sentry", "Datadog", "Grafana", "VictoriaMetrics"]
 
-<br clear="both" />
+        self.interests          = ["Clean architecture", "API design",
+                                   "Performance optimization", "Distributed systems"]
+        self.currently_learning = "Go"
+        self.open_to_work       = False  # happily employed
 
-<!-- Tech Stack -->
-<div align="left">
-  <h2>🛠️ Tech Stack</h2>
-  <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th style="border: 1px solid #ddd; padding: 10px; text-align: left;">🧩 Category</th>
-        <th style="border: 1px solid #ddd; padding: 10px; text-align: left;">🧪 Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 10px;">Programming Languages</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">
-          <img src="https://skillicons.dev/icons?i=python,go,js,html,css" height="40" />
-        </td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 10px;">Frameworks</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">
-          <img src="https://skillicons.dev/icons?i=django,fastapi" height="40" />
-        </td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 10px;">Databases / Caches</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">
-          <img src="https://skillicons.dev/icons?i=postgres,redis" height="40" />
-        </td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 10px;">Monitoring / Observability</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">
-          <img src="https://cdn.simpleicons.org/datadog/632CA6" width="40" title="Datadog" />
-          <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" title="Grafana" />
-          <img src="https://cdn.simpleicons.org/sentry/362D59" width="40" title="Sentry" />
-          <img src="https://cdn.simpleicons.org/victoriametrics/0B94DE" width="40" title="VictoriaMetrics" />
-        </td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ddd; padding: 10px;">Tools</td>
-        <td style="border: 1px solid #ddd; padding: 10px;">
-          <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" height="40" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+    def get_daily_routine(self) -> list[str]:
+        return [
+            "coffee.brew()",
+            "git pull --rebase",
+            "write_clean_code(tests_first=True)",
+            "review_pull_requests()",
+            "optimize_queries(n=float('inf'))",
+            "git push",
+            "coffee.brew()  # again",
+        ]
+
+    def contact(self) -> dict:
+        return {
+            "email":     "julio.m.b.c.silva@gmail.com",
+            "linkedin":  "linkedin.com/in/julio-miguel-silva/",
+            "portfolio": "jmbcs.github.io/portfolio/",
+        }
+
+    def __repr__(self) -> str:
+        return f"<BackendDeveloper name={self.name!r} role={self.role!r}>"
+
+if __name__ == "__main__":
+    me = BackendDeveloper()
+    me.say_hi()
+    print(me)
+```
+
+
 
 <!-- Footer Section -->
-<div align="center" style="margin-top: 40px;">
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%" />
   <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
-  <img src="https://komarev.com/ghpvc/?username=jmbcs&style=flat-square&color=3B82F6" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/julio-miguel-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:julio.m.b.c.silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jmbcs.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=firefox&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=jmbcs&style=flat-square&color=3B82F6" />
 </div>
