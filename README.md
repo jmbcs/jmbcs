@@ -2,6 +2,13 @@
 <div align="center" style="border: 3px solid #3B82F6; border-radius: 10px; padding: 10px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=190&section=header&text=Júlio%20Silva&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 </div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-miguel-silva/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:julio.m.b.c.silva@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox-browser&logoColor=white)](https://jmbcs.github.io/portfolio/)
+[![Profile Views](https://komarev.com/ghpvc/?username=jmbcs&style=flat&color=3B82F6&label=Views)](https://github.com/jmbcs)
+</div>
 
 ```python3
 class BackendDeveloper:
@@ -61,15 +68,4 @@ if __name__ == "__main__":
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%" />
   <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
-  <a href="https://www.linkedin.com/in/julio-miguel-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:julio.m.b.c.silva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jmbcs.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=firefox&logoColor=white" />
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=jmbcs&style=flat-square&color=3B82F6" />
 </div>
