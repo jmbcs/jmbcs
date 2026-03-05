@@ -33,6 +33,7 @@ class BackendDeveloper:
             "write_clean_code(tests_first=True)",
             "review_pull_requests()",
             "optimize_queries(n=float('inf'))",
+            "git commit -m "'done with extra caffeine'",
             "git push",
             "coffee.brew()  # again",
         ]
