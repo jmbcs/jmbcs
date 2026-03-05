@@ -1,9 +1,6 @@
 <!-- Animated Header -->
 <div align="center" style="border: 3px solid #3B82F6; border-radius: 10px; padding: 10px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=190&section=header&text=Júlio%20Silva&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+robust+backend+solutions;Python+%26+Django+specialist;Problem+solver+%26+Tech+enthusiast;Passionate+about+clean+code+architecture" alt="Typing SVG" />
-  </a>
 </div>
 
 ```python3
