@@ -20,8 +20,7 @@ class BackendDeveloper:
 
         self.interests          = ["Clean architecture", "API design",
                                    "Performance optimization", "Distributed systems"]
-        self.currently_learning = "Go"
-        self.open_to_work       = False  # happily employed
+        self.currently_learning = "A.I workflow"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
