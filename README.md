@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-miguel-silva/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:julio.m.b.c.silva@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox-browser&logoColor=white)](https://jmbcs.github.io/portfolio/)
-[![Profile Views](https://komarev.com/ghpvc/?username=jmbcs&style=flat&color=3B82F6&label=Views)](https://github.com/jmbcs)
 </div>
 
 ```python3
