@@ -14,7 +14,7 @@ class SoftwareEngineer:
     def __init__(self) -> None:
         # Identity
         self.name: str = "Júlio Silva"
-        self.role: str = "Backend Developer"
+        self.role: str = "Senior Backend Developer"
         self.location: str = "Portugal 🇵🇹"
         self.company: str = "GuestReady / RentalReady"
 
